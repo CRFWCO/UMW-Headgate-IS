@@ -1,0 +1,40 @@
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            46 %
+  Maximum Noise:                            54 %
+  Average Noise:                            48 %
+  Time Averaged Over:                    2:59:59
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 05/16/2021 00:21:12.990 0,0,0,0
+NRP: 01 03 05/16/2021 00:21:12.990 46,54,48,10799
+NRP: 01 04 05/16/2021 00:21:12.990 0,0,0,0
+NRP: 01 0A 05/16/2021 00:21:12.990 0,0,0,0
+NRP: 01 0B 05/16/2021 00:21:12.990 0,0,0,0
+NRP: 01 0C 05/16/2021 00:21:12.990 0,0,0,0
+INF: End Of Noise Report
