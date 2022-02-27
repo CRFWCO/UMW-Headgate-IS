@@ -1,6 +1,2 @@
-ALM: 01 00 02/27/2022 00:29:20.000 Controller Memory Full
-ALM: 01 01 02/27/2022 00:29:20.000 Node Not Connected
-ALM: 01 04 02/27/2022 00:29:20.000 Node Not Connected
-ALM: 01 0B 02/27/2022 00:29:20.000 Node Not Connected
-ALM: 01 0C 02/27/2022 00:29:20.000 Node Not Connected
-ALM: 01 0A 02/27/2022 00:29:21.000 Node Not Connected
+MSG: 01 03 02/27/2022 00:29:29.030 VTT Single Shot Aborted: System Activity
+TAG: 01 03 02/27/2022 00:29:46.000 3D9.1C2D25541C
