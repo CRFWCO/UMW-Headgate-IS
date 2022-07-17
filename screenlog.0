@@ -1,0 +1,901 @@
+TAG: 01 03 07/10/2022 00:13:01.300 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 00:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 00:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 00:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 00:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 00:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 00:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 00:45:08.990 Node Noise High
+ALM: 01 00 07/10/2022 00:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 00:50:56.030 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 01:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 01:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 01:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 01:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 01:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 01:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 01:43:01.010 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 01:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 01:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 01:50:56.010 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 02:13:01.020 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 02:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 02:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 02:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 02:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 02:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 02:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 02:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 02:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 02:50:56.010 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            48 %
+  Maximum Noise:                            57 %
+  Average Noise:                            49 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 02:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 02:52:57.990 48,57,49,10800
+NRP: 01 04 07/10/2022 02:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 02:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 02:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 02:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 03:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 03:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 03:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 03:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 03:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 03:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 03:43:01.000 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 03:45:08.990 Node Noise High
+ALM: 01 00 07/10/2022 03:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 03:50:56.080 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 04:13:01.040 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 04:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 04:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 04:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 04:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 04:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 04:43:01.130 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 04:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 04:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 04:50:56.080 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 05:13:01.000 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 05:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 05:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 05:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 05:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 05:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 05:43:01.360 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 05:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 05:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 05:50:56.110 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            46 %
+  Maximum Noise:                            53 %
+  Average Noise:                            48 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 05:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 05:52:57.990 46,53,48,10800
+NRP: 01 04 07/10/2022 05:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 05:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 05:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 05:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 06:13:01.020 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 06:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 06:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 06:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 06:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 06:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 06:43:01.010 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 06:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 06:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 06:50:56.040 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 07:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 07:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 07:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 07:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 07:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 07:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 07:43:01.090 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 07:45:08.990 Node Noise High
+ALM: 01 00 07/10/2022 07:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 07:50:56.070 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 08:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 08:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 08:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 08:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 08:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 08:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 08:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 08:45:09.000 Node Noise High
+MSG: 01 00 07/10/2022 08:50:38.000 Present External Memory File: 01_01105.log
+ALM: 01 00 07/10/2022 08:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 08:50:56.050 VTT Single Shot Aborted: System Activity
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0250
+  Date:                               07/10/2022
+  Time:                                 08:51:06
+  Last Shutdown Date:                 05/17/2022
+  Last Shutdown Time:                      09:53
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                    60 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 03,03,03,03,03,03,03,03,03,03,03,03
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 03,03,03,03,03,03,03,03,03,03,03,03
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                       32458
+  Memory Used:                              99 %
+  Backup Tags Memory Count:                24360
+  Backup Tags Memory Used:                  97 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01105.log
+  Input Voltage:                          24.9 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            41.3 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      2069
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       1
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       403
+  Tuning Target Phase Deviation Threshold:    15
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Reader Node 03:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1568
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          23.7 V
+  Exciter Voltage:                        16.0 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         9.9 A
+  Tuning Capacitors:                         867
+  Tuning Phase:                              386
+  Tuning Relative Phase:                      -1
+  FDXB Signal Level:               396 mV (44 %)
+  Temperature:                            28.6 C
+ Node Settings:
+  Exciter Voltage Level:                       4
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       385
+  Tuning Target Phase Deviation Threshold:     3
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Reader Node 04:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       390
+  Tuning Target Phase Deviation Threshold:    10
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Reader Node 0A:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1298
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       4
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       382
+  Tuning Target Phase Deviation Threshold:     5
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                                Enabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Reader Node 0B:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      2032
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       1
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       390
+  Tuning Target Phase Deviation Threshold:    10
+  Detection Unique Mode:                Disabled
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Reader Node 0C:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      3562
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       1
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       390
+  Tuning Target Phase Deviation Threshold:    10
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:               20 %
+Active Alarms:
+  MC: Controller Memory Full
+  Node 01: Node Not Connected
+  Node 03: Node Noise High
+  Node 04: Node Not Connected
+  Node 0A: Node Not Connected
+  Node 0B: Node Not Connected
+  Node 0C: Node Not Connected
+SRP: 01 00 07/10/2022 08:51:06.020 2,99,249,36,32458,413,3,3,3,3,3,3,3,3,3,3,3,3,22,0,0,0,0
+SRP: 01 01 07/10/2022 08:51:06.020 0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+SRP: 01 03 07/10/2022 08:51:06.020 1,1,1,3,99,44,867,-1,160,237,286,16,0,0,0,0
+SRP: 01 04 07/10/2022 08:51:06.020 0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+SRP: 01 0A 07/10/2022 08:51:06.020 0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+SRP: 01 0B 07/10/2022 08:51:06.020 0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+SRP: 01 0C 07/10/2022 08:51:06.020 0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+INF: End Of Full Status Report
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            48 %
+  Maximum Noise:                            48 %
+  Average Noise:                            48 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 08:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 08:52:57.990 48,48,48,10800
+NRP: 01 04 07/10/2022 08:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 08:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 08:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 08:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 09:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 09:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 09:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 09:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 09:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 09:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 09:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 09:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 09:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 09:50:56.100 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 10:13:01.000 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 10:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 10:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 10:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 10:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 10:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 10:43:01.040 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 10:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 10:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 10:50:56.030 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 11:13:01.020 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 11:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 11:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 11:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 11:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 11:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 11:43:01.000 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 11:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 11:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 11:50:56.080 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            50 %
+  Maximum Noise:                            50 %
+  Average Noise:                            47 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 11:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 11:52:57.990 50,50,47,10800
+NRP: 01 04 07/10/2022 11:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 11:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 11:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 11:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 12:13:01.080 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 12:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 12:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 12:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 12:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 12:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 12:43:01.010 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 12:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 12:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 12:50:56.020 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 13:13:01.150 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 13:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 13:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 13:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 13:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 13:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 13:43:01.010 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 13:45:08.990 Node Noise High
+ALM: 01 00 07/10/2022 13:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 13:50:56.080 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 14:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 14:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 14:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 14:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 14:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 14:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 14:43:01.100 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 14:45:08.990 Node Noise High
+ALM: 01 00 07/10/2022 14:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 14:50:56.030 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            49 %
+  Maximum Noise:                            49 %
+  Average Noise:                            46 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 14:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 14:52:57.990 49,49,46,10800
+NRP: 01 04 07/10/2022 14:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 14:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 14:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 14:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 15:13:01.030 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 15:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 15:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 15:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 15:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 15:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 15:43:01.010 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 15:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 15:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 15:50:56.050 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 16:13:01.070 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 16:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 16:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 16:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 16:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 16:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 16:43:01.000 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 16:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 16:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 16:50:56.050 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 17:13:01.000 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 17:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 17:19:31.000 Node Not Connected
+ALM: 01 04 07/10/2022 17:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 17:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 17:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 17:43:01.030 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 17:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 17:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 17:50:56.050 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 17:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 17:52:57.990 0,0,0,0
+NRP: 01 04 07/10/2022 17:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 17:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 17:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 17:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 18:13:01.000 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 18:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 18:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 18:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 18:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 18:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 18:43:01.090 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 18:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 18:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 18:50:56.050 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 19:13:01.080 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 19:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 19:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 19:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 19:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 19:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 19:43:01.040 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 19:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 19:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 19:50:56.030 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 20:13:01.260 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 20:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 20:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 20:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 20:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 20:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 20:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 20:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 20:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 20:50:56.030 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            49 %
+  Maximum Noise:                            56 %
+  Average Noise:                            48 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 20:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 20:52:57.990 49,56,48,10800
+NRP: 01 04 07/10/2022 20:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 20:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 20:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 20:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/10/2022 21:13:01.250 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 21:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 21:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 21:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 21:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 21:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 21:43:01.130 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 21:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 21:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 21:50:56.070 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 22:13:01.050 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 22:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 22:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 22:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 22:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 22:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 22:43:01.440 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 22:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 22:50:43.990 Controller Memory Full
+MSG: 01 03 07/10/2022 22:50:56.050 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/10/2022 23:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/10/2022 23:19:30.000 Node Not Connected
+ALM: 01 01 07/10/2022 23:19:30.990 Node Not Connected
+ALM: 01 04 07/10/2022 23:19:31.000 Node Not Connected
+ALM: 01 0B 07/10/2022 23:22:09.000 Node Not Connected
+ALM: 01 0C 07/10/2022 23:36:20.000 Node Not Connected
+TAG: 01 03 07/10/2022 23:43:01.610 3D9.1C2D25541C
+ALM: 01 03 07/10/2022 23:45:09.000 Node Noise High
+ALM: 01 00 07/10/2022 23:50:44.000 Controller Memory Full
+MSG: 01 03 07/10/2022 23:50:56.040 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            47 %
+  Maximum Noise:                            57 %
+  Average Noise:                            49 %
+  Time Averaged Over:                    2:59:59
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/10/2022 23:52:57.990 0,0,0,0
+NRP: 01 03 07/10/2022 23:52:57.990 47,57,49,10799
+NRP: 01 04 07/10/2022 23:52:57.990 0,0,0,0
+NRP: 01 0A 07/10/2022 23:52:57.990 0,0,0,0
+NRP: 01 0B 07/10/2022 23:52:57.990 0,0,0,0
+NRP: 01 0C 07/10/2022 23:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/11/2022 00:13:01.070 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 00:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 00:19:30.990 Node Not Connected
+ALM: 01 04 07/11/2022 00:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 00:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 00:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 00:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 00:45:09.000 Node Noise High
+ALM: 01 00 07/11/2022 00:50:44.000 Controller Memory Full
+MSG: 01 03 07/11/2022 00:50:56.030 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/11/2022 01:13:01.080 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 01:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 01:19:30.990 Node Not Connected
+ALM: 01 04 07/11/2022 01:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 01:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 01:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 01:43:01.030 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 01:45:09.000 Node Noise High
+ALM: 01 00 07/11/2022 01:50:43.990 Controller Memory Full
+MSG: 01 03 07/11/2022 01:50:56.020 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/11/2022 02:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 02:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 02:19:30.990 Node Not Connected
+ALM: 01 04 07/11/2022 02:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 02:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 02:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 02:43:01.050 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 02:45:08.990 Node Noise High
+ALM: 01 00 07/11/2022 02:50:43.990 Controller Memory Full
+MSG: 01 03 07/11/2022 02:50:56.040 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            41 %
+  Maximum Noise:                            52 %
+  Average Noise:                            48 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/11/2022 02:52:57.990 0,0,0,0
+NRP: 01 03 07/11/2022 02:52:57.990 41,52,48,10800
+NRP: 01 04 07/11/2022 02:52:57.990 0,0,0,0
+NRP: 01 0A 07/11/2022 02:52:57.990 0,0,0,0
+NRP: 01 0B 07/11/2022 02:52:57.990 0,0,0,0
+NRP: 01 0C 07/11/2022 02:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/11/2022 03:13:01.130 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 03:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 03:19:31.000 Node Not Connected
+ALM: 01 04 07/11/2022 03:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 03:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 03:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 03:43:01.030 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 03:45:08.990 Node Noise High
+ALM: 01 00 07/11/2022 03:50:44.000 Controller Memory Full
+MSG: 01 03 07/11/2022 03:50:56.040 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/11/2022 04:13:01.060 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 04:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 04:19:30.990 Node Not Connected
+ALM: 01 04 07/11/2022 04:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 04:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 04:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 04:43:01.250 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 04:45:09.000 Node Noise High
+ALM: 01 00 07/11/2022 04:50:44.000 Controller Memory Full
+MSG: 01 03 07/11/2022 04:50:56.020 VTT Single Shot Aborted: System Activity
+TAG: 01 03 07/11/2022 05:13:01.010 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 05:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 05:19:31.000 Node Not Connected
+ALM: 01 04 07/11/2022 05:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 05:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 05:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 05:43:01.020 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 05:45:08.990 Node Noise High
+ALM: 01 00 07/11/2022 05:50:43.990 Controller Memory Full
+MSG: 01 03 07/11/2022 05:50:56.020 VTT Single Shot Aborted: System Activity
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 03:
+  Present Noise:                            50 %
+  Maximum Noise:                            50 %
+  Average Noise:                            49 %
+  Time Averaged Over:                    3:00:00
+Reader Node 04:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0A:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0B:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+Reader Node 0C:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: 01 01 07/11/2022 05:52:57.990 0,0,0,0
+NRP: 01 03 07/11/2022 05:52:57.990 50,50,49,10800
+NRP: 01 04 07/11/2022 05:52:57.990 0,0,0,0
+NRP: 01 0A 07/11/2022 05:52:57.990 0,0,0,0
+NRP: 01 0B 07/11/2022 05:52:57.990 0,0,0,0
+NRP: 01 0C 07/11/2022 05:52:57.990 0,0,0,0
+INF: End Of Noise Report
+TAG: 01 03 07/11/2022 06:13:01.050 3D9.1C2D25541C
+ALM: 01 0A 07/11/2022 06:19:30.000 Node Not Connected
+ALM: 01 01 07/11/2022 06:19:31.000 Node Not Connected
+ALM: 01 04 07/11/2022 06:19:31.000 Node Not Connected
+ALM: 01 0B 07/11/2022 06:22:09.000 Node Not Connected
+ALM: 01 0C 07/11/2022 06:36:20.000 Node Not Connected
+TAG: 01 03 07/11/2022 06:43:01.000 3D9.1C2D25541C
+ALM: 01 03 07/11/2022 06:45:08.990 Node Noise High
+ALM: 01 00 07/11/2022 06:50:44.000 Controller Memory Full
+MSG: 01 03 07/11/2022 06:50:56.020 VTT Single Shot Aborted: System Activity
