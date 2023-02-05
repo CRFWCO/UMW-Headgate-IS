@@ -1,1 +1,5 @@
-ALM: 01 00 02/05/2023 00:08:31.000 Controller Memory Full
+MSG: 01 04 02/05/2023 00:08:43.070 VTT Single Shot Aborted: System Activity
+MSG: 01 01 02/05/2023 00:08:43.130 Node VTT Single Shot Fired
+MSG: 01 01 02/05/2023 00:08:43.180 Node VTT Test Passed
+TAG: 01 01 02/05/2023 00:08:43.180 3E7.0000001D01
+MSG: 01 03 02/05/2023 00:08:43.180 VTT Single Shot Aborted: System Activity
